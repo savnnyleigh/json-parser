@@ -1,0 +1,4 @@
+import json
+
+with open('states.json', 'r') as f:
+    states =json.load(f)
